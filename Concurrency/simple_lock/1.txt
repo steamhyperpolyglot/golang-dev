@@ -1,0 +1,1 @@
+I love programming! Currently, I am learning about concurrency in Golang. I'm also thinking about the real-world applications for Golang.
