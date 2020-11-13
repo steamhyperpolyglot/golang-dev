@@ -1,0 +1,4 @@
+customLogLineNumber 2020/11/13 19:06:16 Hello there!
+customLogLineNumber 2020/11/13 19:06:17 Another log entry!
+customLogLineNumber 2020/11/13 19:07:05 main.go:24: Hello there!
+customLogLineNumber 2020/11/13 19:07:05 main.go:25: Another log entry!
